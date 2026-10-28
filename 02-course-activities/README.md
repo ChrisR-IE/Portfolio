@@ -1,0 +1,1 @@
+**Note on File Formats:** Each activity folder includes both a **Markdown (`.md`)** file (optimized for quick, clean in-browser reading on GitHub) and the **original Word Document (`.docx`)** file (retaining the exact raw layout of the original course artifact).
