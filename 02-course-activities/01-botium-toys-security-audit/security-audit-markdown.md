@@ -1,4 +1,4 @@
-> **Note:** For the best visual formatting and layout, you can download the original formal Word document version of this report here: [`Botium-Security-Audit.docx`](./Botium-Security-Audit.docx). This Markdown version is provided for quick, convenient in-browser reading.
+> **Note:** For the best visual formatting and layout, you can download the original formal Word document version of this report here: [`Botium-Security-Audit.docx`](./Botium-security-audit.docx). This Markdown version is provided for quick, convenient in-browser reading.
 
 ---
 
