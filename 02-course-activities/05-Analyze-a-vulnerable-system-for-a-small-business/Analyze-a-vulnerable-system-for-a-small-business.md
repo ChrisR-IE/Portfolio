@@ -1,4 +1,4 @@
-> **Note:** For the best visual formatting and layout, you can download the original formal Word document version of this report here: [`Analyze-a-Vulnerable-System-for-a-Small-Business.docx`](./Analyze-a-Vulnerable-System-for-a-Small-Business.docx). This Markdown version is provided for quick, convenient in-browser reading.
+> **Note:** For the best visual formatting and layout, you can download the original formal Word document version of this report here: [`Analyze-a-Vulnerable-System-for-a-Small-Business.docx`](./Analyze-a-Vulnerable-System-for-a-Small-Business.docx). This Markdown version is provided for quick, convenient in-browser reading. The markdown was created using AI based off the provided and completed template from the course.
 
 ---
 
