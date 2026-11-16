@@ -1,4 +1,4 @@
-> **Note:** For the best visual formatting and original screenshots, you can download the formal Word document version of this report here: [`File-permissions-in-Linux.docx`](./File-permissions-in-Linux.docx). This Markdown version is provided for quick, convenient in-browser reading. AI was used to convert the original file into markdown format.
+> **Note:** For the best visual formatting and original screenshots, you can download the formal Word document version of this report here: [`File-permissions-in-Linux.docx`](./File permissions in Linux .docx). This Markdown version is provided for quick, convenient in-browser reading. AI was used to convert the original file into markdown format.
 
 ---
 
